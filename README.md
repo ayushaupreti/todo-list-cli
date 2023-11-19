@@ -1,10 +1,9 @@
 # todo-list-cli
 A CLI todo list 
 
-# how to use
-- clone repository
-- navigate to directory
-- run `npm i -g` to install the CLI tool globally
-- run `todos --help` to see all available commands
+# Installation
+`npm i @ayushaupreti/todos-cli` will install this package. 
+
+Please see npm [documentation](https://www.npmjs.com/package/@ayushaupreti/todos-cli?activeTab=readme)for more information
 
 Enjoy! 
