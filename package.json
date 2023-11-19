@@ -1,7 +1,7 @@
 {
-  "name": "todos-cli",
+  "name": "@ayushaupreti/todos-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "A todo list through the CLI",
   "main": "index.js",
   "type": "module",
   "scripts": {
